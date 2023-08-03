@@ -1,0 +1,4 @@
+username - nasa-api
+password - DAX6bMsayLaZ3v4t
+
+mongodb+srv://nasa-api:<password>@cluster0.wrcbihu.mongodb.net/?retryWrites=true&w=majority
